@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "d3dms", "d3dms.vcxproj", "{85AF0591-B9A7-4BC9-A9DA-9A6022F035DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85AF0591-B9A7-4BC9-A9DA-9A6022F035DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{85AF0591-B9A7-4BC9-A9DA-9A6022F035DF}.Debug|x86.Build.0 = Debug|Win32
+		{85AF0591-B9A7-4BC9-A9DA-9A6022F035DF}.Release|x86.ActiveCfg = Release|Win32
+		{85AF0591-B9A7-4BC9-A9DA-9A6022F035DF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D2A1F0C-5364-47B1-9877-49A0DAEFEF47}
+	EndGlobalSection
+EndGlobal
